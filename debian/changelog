@@ -1,3 +1,9 @@
+pibang-backgrounds-contrib (0.0.2) unstable; urgency=low
+
+  * Added new papers
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Tue, 19 Mar 2013 07:54:33 +0900
+
 pibang-backgrounds-contrib (0.0.1) unstable; urgency=low
 
   * Initial release. (Closes: #XXXXXX)

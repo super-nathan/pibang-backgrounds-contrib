@@ -1,0 +1,12 @@
+#!/bin/bash
+cd /usr/share/backgrounds
+rm Boat.png
+rm Himalyas.png
+rm Mountain-Sunrise.png
+rm PI!.png
+rm PiBangJPG.jpg
+rm Windfarm.JPG
+rm ZHX.png
+rm frogs.png
+rm sky1.JPG
+exit 0

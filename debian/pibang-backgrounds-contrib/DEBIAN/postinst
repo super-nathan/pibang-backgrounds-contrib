@@ -1,0 +1,13 @@
+#!/bin/bash
+cd /tmp
+tar zxvf /tmp/pibang-backgrounds-contrib.tar.gz
+if [ -d /usr/share/backgrounds ]; then
+	echo "directory exists"
+	mv /tmp/backgrounds/* /usr/share/backgrounds/
+	rm -r /tmp/backgrounds
+else
+	echo "creating /usr/share/backgrounds"
+	mv /tmp/backgrounds /usr/share/
+fi
+rm /tmp/pibang-backgrounds-contrib.tar.gz
+exit 0

@@ -1,3 +1,9 @@
+pibang-backgrounds-contrib (0.1.1) UNRELEASED; urgency=low
+
+  * added some art and added gzip
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Fri, 26 Jul 2013 15:25:43 +0900
+
 pibang-backgrounds-contrib (0.0.2) unstable; urgency=low
 
   * Added new papers
